@@ -2,7 +2,7 @@ Olá! 👋
 Seja bem-vindo ao meu perfil do GitHub! 🚀 Estou começando minha jornada no mundo da programação e tecnologia. Aqui está "um pouco" de quem sou:
 
 🎓 Sobre Mim
-- Tenho 19 anos de idade e namoro a mais linda das Muié (https://github.com/TiemiFe), estou aprendendo linguagens de marcação e programação, mas também possuo outros hobbies e interesses.
+- Tenho 19 anos de idade e estou aprendendo linguagens de marcação e programação, mas também possuo outros hobbies e interesses.
 
 🌟 Meus Interesses
 - Tecnologia: Adoro explorar novas ferramentas e linguagens de programação. Tenho interesse em Hardware e desejo fazer informática porque sou curioso.
